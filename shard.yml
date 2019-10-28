@@ -1,0 +1,9 @@
+name: termbuf
+version: 0.1.0
+
+authors:
+  - Åsmund Stavdahl <asmund.stavdahl@gmail.com>
+
+crystal: 0.31.1
+
+license: MIT
